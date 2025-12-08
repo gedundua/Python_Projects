@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 df = pd.read_csv("ny_high_schools.csv")
 pd.set_option('display.max_columns',  50)
@@ -34,3 +35,13 @@ other_school_df = df[
 other_school_mean = other_school_df[metric_name].mean()
 print(f"Other Schools Mean across all regents exams for above 80% performers in 2017 {other_school_mean:.2f}")
 
+
+# Let's do some charting across years
+df_filtered = df[df["School DBN"] == "01M140"]
+plt.bar(df_filtered["Year"], df_filtered[metric_name])
+# Force integer tick labels
+plt.xticks(df_filtered["Year"].astype(int))
+plt.xlabel("Year")
+plt.ylabel("Percent Scoring 80+")
+plt.title("Nathan Straus School – Regents Performance across Years")
+plt.show()
