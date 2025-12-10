@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-df = pd.read_csv("nypd_arrests_historic-copy.csv")
+df = pd.read_csv("nypd_arrests_historic.csv")
 pd.set_option("display.max_columns", 50)
 
 # Cleaning the dataset (changing the dates in the dataframe from string to dates)
