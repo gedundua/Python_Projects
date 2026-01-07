@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49416d31-d42d-45f9-9c40-17b0c759b360" name="Changes" comment="This project explores publication trends in a booksdataset by analyzing how frequently a chosen keyword appears in book titles over time. Using a publicly available dataset of books, the analysis focuses on titles containing a specific keyword and examines how their publication frequency changes across years.&#10;&#10;The project further divides these books into English-language and non-English-language groups to compare patterns between the two. The data is cleaned and filtered, and the results are visualized with side-by-side bar charts to highlight differences and trends across publication years." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gladys Dundua &lt;gladys@dundua.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gedundua&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gedundua/Python_Projects.git&quot;,
+    &quot;accountId&quot;: &quot;85f726b0-a282-4a5c-9620-99bd3de5cec0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="36YLtfx18Ge1UdcRNC9pS9t5B5j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Project3.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.project1.executor": "Run",
+    "Python.project2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/gladysdundua/Documents/Python_Projects/Project2",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Project2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/books_data" />
+      <recent name="$PROJECT_DIR$/Project2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Project3">
+    <configuration name="Project3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project3/Project3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python_Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project1/project1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Project2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project2/project2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Project3" />
+        <item itemvalue="Python.project2" />
+        <item itemvalue="Python.project1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49416d31-d42d-45f9-9c40-17b0c759b360" name="Changes" comment="" />
+      <created>1765178773643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765178773643</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1765178952433</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765178952433</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding csv">
+      <option name="closed" value="true" />
+      <created>1765179160574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1765179160574</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding csv">
+      <option name="closed" value="true" />
+      <created>1765189237238</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765189237238</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Cleanup and plotting">
+      <option name="closed" value="true" />
+      <created>1765191111854</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765191111854</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Additional clean-up and conclusion.">
+      <option name="closed" value="true" />
+      <created>1765191588263</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765191588263</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Visualization">
+      <option name="closed" value="true" />
+      <created>1765353162858</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765353162858</updated>
+    </task>
+    <task id="LOCAL-00007" summary="This project analyzes historic NYPD arrest data to compare yearly assault-arrest trends in Manhattan versus the other New York City boroughs. After cleaning the dataset and isolating all assault-related arrests, I grouped them by year and visualized the differences. The results show that while Manhattan consistently records fewer assault arrests than the rest of the city—largely due to population differences—the overall trends rise and fall in similar ways across boroughs. This suggests that citywide factors, rather than borough-specific ones, drive most year-to-year variation. Overall, the comparison highlights the importance of geographic context when interpreting crime data.">
+      <option name="closed" value="true" />
+      <created>1765353761560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765353761560</updated>
+    </task>
+    <task id="LOCAL-00008" summary="This project analyzes historic NYPD arrest data to compare yearly assault-arrest trends in Manhattan versus the other New York City boroughs. After cleaning the dataset and isolating all assault-related arrests, I grouped them by year and visualized the differences. The results show that while Manhattan consistently records fewer assault arrests than the rest of the city—largely due to population differences—the overall trends rise and fall in similar ways across boroughs. This suggests that citywide factors, rather than borough-specific ones, drive most year-to-year variation. Overall, the comparison highlights the importance of geographic context when interpreting crime data.">
+      <option name="closed" value="true" />
+      <created>1765353777598</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765353777598</updated>
+    </task>
+    <task id="LOCAL-00009" summary="This project analyzes historic NYPD arrest data to compare yearly assault-arrest trends in Manhattan versus the other New York City boroughs. After cleaning the dataset, I grouped assaults by year and visualized the differences. The results show that while Manhattan consistently records fewer assault arrests than the rest of the city, the overall trends rise and fall in similar ways across boroughs.">
+      <option name="closed" value="true" />
+      <created>1765354387414</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765354387414</updated>
+    </task>
+    <task id="LOCAL-00010" summary="This project analyzes historic NYPD arrest data to compare yearly assault-arrest trends in Manhattan versus the other New York City boroughs. After cleaning the dataset, I grouped assaults by year and visualized the differences. The results show that while Manhattan consistently records fewer assault arrests than the rest of the city, the overall trends rise and fall in similar ways across boroughs.">
+      <option name="closed" value="true" />
+      <created>1765355402157</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765355402157</updated>
+    </task>
+    <task id="LOCAL-00011" summary="This project analyzes historic NYPD arrest data to compare yearly assault-arrest trends in Manhattan versus the other New York City boroughs. After cleaning the dataset, I grouped assaults by year and visualized the differences. The results show that while Manhattan consistently records fewer assault arrests than the rest of the city, the overall trends rise and fall in similar ways across boroughs.">
+      <option name="closed" value="true" />
+      <created>1765355473358</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765355473358</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Books analysis">
+      <option name="closed" value="true" />
+      <created>1767818080478</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1767818080478</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Books analysis">
+      <option name="closed" value="true" />
+      <created>1767818094023</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1767818094023</updated>
+    </task>
+    <task id="LOCAL-00014" summary="This project explores publication trends in a booksdataset by analyzing how frequently a chosen keyword appears in book titles over time. Using a publicly available dataset of books, the analysis focuses on titles containing a specific keyword and examines how their publication frequency changes across years.&#10;&#10;The project further divides these books into English-language and non-English-language groups to compare patterns between the two. The data is cleaned and filtered, and the results are visualized with side-by-side bar charts to highlight differences and trends across publication years.">
+      <option name="closed" value="true" />
+      <created>1767819294939</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1767819294939</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="adding csv" />
+    <MESSAGE value="Cleanup and plotting" />
+    <MESSAGE value="Additional clean-up and conclusion." />
+    <MESSAGE value="Visualization" />
+    <MESSAGE value="This project analyzes historic NYPD arrest data to compare yearly assault-arrest trends in Manhattan versus the other New York City boroughs. After cleaning the dataset and isolating all assault-related arrests, I grouped them by year and visualized the differences. The results show that while Manhattan consistently records fewer assault arrests than the rest of the city—largely due to population differences—the overall trends rise and fall in similar ways across boroughs. This suggests that citywide factors, rather than borough-specific ones, drive most year-to-year variation. Overall, the comparison highlights the importance of geographic context when interpreting crime data." />
+    <MESSAGE value="This project analyzes historic NYPD arrest data to compare yearly assault-arrest trends in Manhattan versus the other New York City boroughs. After cleaning the dataset, I grouped assaults by year and visualized the differences. The results show that while Manhattan consistently records fewer assault arrests than the rest of the city, the overall trends rise and fall in similar ways across boroughs." />
+    <MESSAGE value="Books analysis" />
+    <MESSAGE value="This project explores publication trends in a booksdataset by analyzing how frequently a chosen keyword appears in book titles over time. Using a publicly available dataset of books, the analysis focuses on titles containing a specific keyword and examines how their publication frequency changes across years.&#10;&#10;The project further divides these books into English-language and non-English-language groups to compare patterns between the two. The data is cleaned and filtered, and the results are visualized with side-by-side bar charts to highlight differences and trends across publication years." />
+    <option name="LAST_COMMIT_MESSAGE" value="This project explores publication trends in a booksdataset by analyzing how frequently a chosen keyword appears in book titles over time. Using a publicly available dataset of books, the analysis focuses on titles containing a specific keyword and examines how their publication frequency changes across years.&#10;&#10;The project further divides these books into English-language and non-English-language groups to compare patterns between the two. The data is cleaned and filtered, and the results are visualized with side-by-side bar charts to highlight differences and trends across publication years." />
+  </component>
+</project>
